@@ -1,0 +1,40 @@
+body{
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+}
+
+.color-box{
+	/*background-color: red;*/
+	background-color: #FFFFFF;
+	/*background-color: RGB(000, 123, 456);*/
+	padding-bottom: 15px;
+	padding-top: 25px;
+}
+
+.links{
+	background-color: #B40404;
+	border-top: 1px solid white;
+}
+
+.logo{
+	width: 200px
+}
+
+.info{
+	background-color: #000000;
+	padding-right: 25px;
+	padding-left: 25px;
+	text-align: justify;
+}
+
+h1{
+	font-family: "Germania One", cursive;
+}
+
+p{
+	color: #FFFFFF;
+}
+
+img{
+	width: 100%;
+}
